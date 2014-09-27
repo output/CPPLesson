@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>FD92A1D0-3A95-4121-A9FC-526D3E4DB1B8</string>
+	<string>635CBD31-571B-4F2A-9D71-518767A0F777</string>
 	<key>IDESourceControlProjectName</key>
 	<string>CPPLesson</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -25,12 +25,22 @@
 		<string>../L03Classes</string>
 		<key>4175CF09-7ACF-4967-BDF0-F16E6949CCF9</key>
 		<string>../L05SuperC</string>
+		<key>5FD4E552-05E9-4CBA-949C-99F8A698F4AC</key>
+		<string>../L12FunctionPointer</string>
 		<key>5FDFAB66-E64B-48F6-A199-A42A44178EDF</key>
 		<string>../L06Super</string>
+		<key>6EB7C9C6-6501-444C-9C22-AE0D6F2B1C63</key>
+		<string>../L11PseudoFunction</string>
+		<key>7D964ABD-7A77-4AEC-9ED4-48E4C132AA84</key>
+		<string>../L13Ref</string>
 		<key>97DA0B55-AD0B-4723-843A-7BDB248BE026</key>
 		<string>../../..</string>
 		<key>B998D09E-DF85-429F-810E-EBF212AC1FB3</key>
 		<string>../LO1OOP</string>
+		<key>C2FE7C90-0DDB-4724-82E4-BC512FBB14D6</key>
+		<string>../L09Overload</string>
+		<key>C571884E-2E5D-4447-AC6C-75E9926458B8</key>
+		<string>../L10Operator</string>
 		<key>E9216EF5-10C6-4628-BF44-490E744A991F</key>
 		<string>../L07Functions</string>
 		<key>F7974310-B49B-425A-928D-C8D64AD35C51</key>
@@ -101,6 +111,46 @@
 			<string>E9216EF5-10C6-4628-BF44-490E744A991F</string>
 			<key>IDESourceControlWCCName</key>
 			<string>L07Functions</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C2FE7C90-0DDB-4724-82E4-BC512FBB14D6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>L09Overload</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C571884E-2E5D-4447-AC6C-75E9926458B8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>L10Operator</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6EB7C9C6-6501-444C-9C22-AE0D6F2B1C63</string>
+			<key>IDESourceControlWCCName</key>
+			<string>L11PseudoFunction</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5FD4E552-05E9-4CBA-949C-99F8A698F4AC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>L12FunctionPointer</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7D964ABD-7A77-4AEC-9ED4-48E4C132AA84</string>
+			<key>IDESourceControlWCCName</key>
+			<string>L13Ref</string>
 		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>

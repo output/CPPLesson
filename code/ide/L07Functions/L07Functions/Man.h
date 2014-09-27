@@ -15,6 +15,8 @@
 
 
 // 调用父类构造函数
+
+// 补充：(L08)纯虚类->类中的所有的方法都是virtual ， 相当于java中的接口
 class Man : public Person {
 
 public:
