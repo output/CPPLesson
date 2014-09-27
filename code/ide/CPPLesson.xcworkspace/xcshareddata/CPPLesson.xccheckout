@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>275BD2B7-1541-48AE-B022-D0F269883674</string>
+	<string>E47C94E1-EA43-4F2F-9DB0-2DD2966EACE6</string>
 	<key>IDESourceControlProjectName</key>
 	<string>CPPLesson</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -19,10 +19,14 @@
 	<string>code/ide/CPPLesson.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+		<key>023EFBFD-FC05-4214-8A01-CFF8CF5F7814</key>
+		<string>../L01OOP</string>
 		<key>97DA0B55-AD0B-4723-843A-7BDB248BE026</key>
 		<string>../../..</string>
 		<key>B998D09E-DF85-429F-810E-EBF212AC1FB3</key>
 		<string>../LO1OOP</string>
+		<key>FD6A3E7E-EE4D-4F40-BCD6-BD5CC45E56FE</key>
+		<string>../L02NS</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/zhixuan183720950/CPPLesson.git</string>
@@ -32,6 +36,22 @@
 	<string>97DA0B55-AD0B-4723-843A-7BDB248BE026</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>023EFBFD-FC05-4214-8A01-CFF8CF5F7814</string>
+			<key>IDESourceControlWCCName</key>
+			<string>L01OOP</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FD6A3E7E-EE4D-4F40-BCD6-BD5CC45E56FE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>L02NS</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>

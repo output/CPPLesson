@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "67341F3B19D69AB0000FEF56"
-               BuildableName = "LO1OOP"
-               BlueprintName = "LO1OOP"
-               ReferencedContainer = "container:LO1OOP.xcodeproj">
+               BlueprintIdentifier = "67341F5619D69D1E000FEF56"
+               BuildableName = "L02NS"
+               BlueprintName = "L02NS"
+               ReferencedContainer = "container:L02NS.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "67341F3B19D69AB0000FEF56"
-            BuildableName = "LO1OOP"
-            BlueprintName = "LO1OOP"
-            ReferencedContainer = "container:LO1OOP.xcodeproj">
+            BlueprintIdentifier = "67341F5619D69D1E000FEF56"
+            BuildableName = "L02NS"
+            BlueprintName = "L02NS"
+            ReferencedContainer = "container:L02NS.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -51,10 +51,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "67341F3B19D69AB0000FEF56"
-            BuildableName = "LO1OOP"
-            BlueprintName = "LO1OOP"
-            ReferencedContainer = "container:LO1OOP.xcodeproj">
+            BlueprintIdentifier = "67341F5619D69D1E000FEF56"
+            BuildableName = "L02NS"
+            BlueprintName = "L02NS"
+            ReferencedContainer = "container:L02NS.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -69,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "67341F3B19D69AB0000FEF56"
-            BuildableName = "LO1OOP"
-            BlueprintName = "LO1OOP"
-            ReferencedContainer = "container:LO1OOP.xcodeproj">
+            BlueprintIdentifier = "67341F5619D69D1E000FEF56"
+            BuildableName = "L02NS"
+            BlueprintName = "L02NS"
+            ReferencedContainer = "container:L02NS.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
