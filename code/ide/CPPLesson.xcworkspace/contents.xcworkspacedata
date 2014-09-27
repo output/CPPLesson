@@ -7,4 +7,19 @@
    <FileRef
       location = "group:L02NS/L02NS.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:L03Classes/L03Classes.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L04CMethod/L04CMethod.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L05SuperC/L05SuperC.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L06Super/L06Super.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:L07Functions/L07Functions.xcodeproj">
+   </FileRef>
 </Workspace>

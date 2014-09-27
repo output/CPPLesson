@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  L02NS
+//  L03Classes
 //
 //  Created by Lance on 14-9-27.
 //  Copyright (c) 2014年 cn.babybus.com. All rights reserved.
@@ -8,18 +8,16 @@
 
 #include <iostream>
 
-#include "Person.h"
-using namespace babybus;
+#include "Man.h"
 
-// C++ 命名空间
+// C++ 类的继承
 
 int main(int argc, const char * argv[])
 {
 
-    
-    Person *p = new Person();
-    p->sayHello();
-    
+
+    Man *m = new Man();
+    m->sayHello();
     return 0;
 }
 

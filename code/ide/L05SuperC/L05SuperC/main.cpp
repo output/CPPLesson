@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  L02NS
+//  L05SuperC
 //
 //  Created by Lance on 14-9-27.
 //  Copyright (c) 2014年 cn.babybus.com. All rights reserved.
@@ -8,18 +8,15 @@
 
 #include <iostream>
 
-#include "Person.h"
-using namespace babybus;
+#include "Man.h"
 
-// C++ 命名空间
+// 执行父类的构造方法
 
 int main(int argc, const char * argv[])
 {
 
-    
-    Person *p = new Person();
-    p->sayHello();
-    
+    Man *m = new Man(20);
+    printf("age: %d \n", m->getAge());
     return 0;
 }
 

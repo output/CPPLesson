@@ -8,6 +8,8 @@
 
 #include <iostream>
 
+// C++ 面向对象
+
 int main(int argc, const char * argv[])
 {
 
