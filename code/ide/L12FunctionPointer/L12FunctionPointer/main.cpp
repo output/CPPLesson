@@ -62,6 +62,7 @@ public:
 int main(int argc, const char * argv[])
 {
 
+    
     Hello *h = new Hello();
     
     delete h;
